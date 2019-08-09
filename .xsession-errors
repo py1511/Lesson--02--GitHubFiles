@@ -1,0 +1,41 @@
+Xsession: X session started for ubuntu at Fri Aug  9 20:19:37 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[4105]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[4106]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:4098): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:4098): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-5-68:10, Does it exist? Permissions issue?
+process 4121: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:4118): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:4108): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:4117): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[4477:4477:0809/202014.599223:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4495:4495:0809/202014.599224:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4471:4471:0809/202014.601834:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4476:4476:0809/202014.601833:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4470:4470:0809/202014.605921:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4467:4467:0809/202014.609038:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4293:4312:0809/202016.202866:ERROR:browser_process_sub_thread.cc(217)] Waited 9 ms for network service
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+[4386:4405:0809/202016.494033:ERROR:browser_process_sub_thread.cc(217)] Waited 3 ms for network service
+Opening in existing browser session.
+
+(xfce4-terminal:5662): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

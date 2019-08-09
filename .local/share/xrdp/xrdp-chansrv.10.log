@@ -1,0 +1,9 @@
+[20190809-20:19:37] [CORE ] main: app started pid 4035(0x00000fc3)
+[20190809-20:19:37] [INFO ] main: DISPLAY env var set to :10.0
+[20190809-20:19:37] [INFO ] main: using DISPLAY 10
+[20190809-20:19:37] [INFO ] channel_thread_loop: thread start
+[20190809-20:19:40] [INFO ] Socket 12: AF_UNIX connection received
+[20190809-20:19:40] [INFO ] send_init_response_message:
+[20190809-20:43:20] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20190809-20:44:29] [INFO ] Socket 12: AF_UNIX connection received
+[20190809-20:44:29] [INFO ] send_init_response_message:
